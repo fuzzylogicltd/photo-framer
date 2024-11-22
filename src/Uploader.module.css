@@ -1,0 +1,36 @@
+.Uploader {
+  padding: 5px;
+
+  label {
+    display: block;
+    text-align: center;
+    background-color: var(--accent-color);
+    color: white;
+    margin: 5px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+
+  input[type="file"] {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+}
+
+hr {
+  border: none;
+  border-top: 1px dotted var(--gray126);
+}
+
+.UploadedImages {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  div {
+    width: auto;
+    text-align: center;
+  }
+}

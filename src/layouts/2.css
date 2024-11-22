@@ -1,0 +1,34 @@
+.frame1 {
+  grid-column: 2 / span 45;
+  grid-row: 9 / span 32;
+}
+
+.frame2 {
+  grid-column: 51 / span 48;
+  grid-row: 9 / span 48;
+}
+
+.frame3 {
+  grid-column: 39 / span 40;
+  grid-row: 61 / span 29;
+}
+
+.frame4 {
+  grid-column: 2 / span 32;
+  grid-row: 45 / span 45;
+}
+
+.frame5 {
+  grid-column: 39 / span 8;
+  grid-row: 45 / span 12;
+}
+
+.frame6,
+.frame7,
+.frame8,
+.frame9,
+.frame10,
+.frame11,
+.frame12 {
+  display: none;
+}

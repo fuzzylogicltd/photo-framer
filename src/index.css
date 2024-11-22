@@ -1,0 +1,14 @@
+body {
+  padding: 0;
+  margin: 0;
+
+  font-family: Arial, Helvetica, sans-serif;
+
+  --accent-color: #ff6b01;
+  --gray51: #333333;
+  --gray126: #7e7e7e;
+  --gray204: #cccccc;
+  --gray229: #e5e5e5;
+  --gray238: #eeeeee;
+  --gray242: #f2f2f2;
+}

@@ -1,0 +1,46 @@
+.frame1 {
+  grid-column: 25 / span 24;
+  grid-row: 11 / span 32;
+}
+
+.frame2 {
+  grid-column: 51 / span 32;
+  grid-row: 19 / span 24;
+}
+
+.frame3 {
+  grid-column: 10 / span 32;
+  grid-row: 47 / span 24;
+}
+
+.frame4 {
+  grid-column: 44 / span 24;
+  grid-row: 47 / span 32;
+}
+
+.frame5 {
+  grid-column: 5 / span 18;
+  grid-row: 21 / span 22;
+}
+
+.frame6 {
+  grid-column: 70 / span 17;
+  grid-row: 47 / span 17;
+}
+
+.frame7 {
+  grid-column: 85 / span 11;
+  grid-row: 27 / span 16;
+}
+
+.frame8 {
+  grid-column: 85 / span 11;
+  grid-row: 14 / span 11;
+}
+
+.frame9,
+.frame10,
+.frame11,
+.frame12 {
+  display: none;
+}
