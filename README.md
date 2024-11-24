@@ -17,7 +17,7 @@ I made this relatively simple app to be able to play around with different photo
 # Things learned / experimented with
 
 - This was useful to learn some Vite features, like the [Glob import](https://vite.dev/guide/features#glob-import)
-- Figuring out the cleanest way to define the specific layouts was education. I landed on CSS Grid, and it was the right call, as they are really easy to knock out quickly (the other option was absolute positioning with percentages).
+- Figuring out the cleanest way to define the specific layouts was interesting. I landed on CSS Grid, and it was the right call, as they are really easy to knock out quickly (the other option was absolute positioning with percentages).
 
 # To Do
 
